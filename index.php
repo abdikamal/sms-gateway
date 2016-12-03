@@ -1,5 +1,5 @@
 <?php
-require_once 'bootstrap/init.php';
+// require_once 'bootstrap/init.php';
 require_once 'bin/AfricasTalkingGateway.php';
 ?>
 
