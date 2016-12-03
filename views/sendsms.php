@@ -4,7 +4,7 @@
 	</div>
 
 	<div class="panel-body">
-		<form method="post" action="controllers/send_sms_controller.php">
+		<form method="post" action="">
 
 
 			<div class="form-group">

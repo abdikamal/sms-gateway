@@ -1,5 +1,5 @@
 <?php 
-require_once '../bin/AfricasTalkingGateway.php';
+// require_once '../bin/AfricasTalkingGateway.php';
 function sendMessage($message, $to)
 {
 	try {
