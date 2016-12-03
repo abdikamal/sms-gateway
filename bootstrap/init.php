@@ -4,7 +4,7 @@ $db_constants = [
 	"server" => "localhost:3306",
 	"user" => "root",
 	"database" => "sms_gateway",
-	"password" => "hot/leo/1244/06", 
+	"password" => "", 
 ];
 
 function getConnection($consts)
